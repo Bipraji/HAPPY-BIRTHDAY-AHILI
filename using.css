@@ -1,0 +1,17 @@
+body{
+    background: linear-gradient(#fca9da 0%, #5e07b5 100%);
+    color: #362002;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Happy Monkey', cursive;
+}
+
+a{
+    font-size: 20px;
+    color:#362002;
+    text-align: right;
+}
+
+.limk:hover{
+    background-color: aliceblue;
+}
